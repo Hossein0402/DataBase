@@ -1,0 +1,801 @@
+actor_name,movie_title
+Tim Robbins,The Shawshank Redemption
+Morgan Freeman,The Shawshank Redemption
+Bob Gunton,The Shawshank Redemption
+William Sadler,The Shawshank Redemption
+Marlon Brando,The Godfather
+Al Pacino,The Godfather
+James Caan,The Godfather
+Diane Keaton,The Godfather
+Christian Bale,The Dark Knight
+Heath Ledger,The Dark Knight
+Aaron Eckhart,The Dark Knight
+Michael Caine,The Dark Knight
+Al Pacino,The Godfather: Part II
+Robert De Niro,The Godfather: Part II
+Robert Duvall,The Godfather: Part II
+Diane Keaton,The Godfather: Part II
+Henry Fonda,12 Angry Men
+Lee J. Cobb,12 Angry Men
+Martin Balsam,12 Angry Men
+John Fiedler,12 Angry Men
+Elijah Wood,The Lord of the Rings: The Return of the King
+Viggo Mortensen,The Lord of the Rings: The Return of the King
+Ian McKellen,The Lord of the Rings: The Return of the King
+Orlando Bloom,The Lord of the Rings: The Return of the King
+John Travolta,Pulp Fiction
+Uma Thurman,Pulp Fiction
+Samuel L. Jackson,Pulp Fiction
+Bruce Willis,Pulp Fiction
+Liam Neeson,Schindler's List
+Ralph Fiennes,Schindler's List
+Ben Kingsley,Schindler's List
+Caroline Goodall,Schindler's List
+Leonardo DiCaprio,Inception
+Joseph Gordon-Levitt,Inception
+Elliot Page,Inception
+Ken Watanabe,Inception
+Brad Pitt,Fight Club
+Edward Norton,Fight Club
+Meat Loaf,Fight Club
+Zach Grenier,Fight Club
+Elijah Wood,The Lord of the Rings: The Fellowship of the Ring
+Ian McKellen,The Lord of the Rings: The Fellowship of the Ring
+Orlando Bloom,The Lord of the Rings: The Fellowship of the Ring
+Sean Bean,The Lord of the Rings: The Fellowship of the Ring
+Tom Hanks,Forrest Gump
+Robin Wright,Forrest Gump
+Gary Sinise,Forrest Gump
+Sally Field,Forrest Gump
+Clint Eastwood,"Il buono, il brutto, il cattivo"
+Eli Wallach,"Il buono, il brutto, il cattivo"
+Lee Van Cleef,"Il buono, il brutto, il cattivo"
+Aldo Giuffrè,"Il buono, il brutto, il cattivo"
+Elijah Wood,The Lord of the Rings: The Two Towers
+Ian McKellen,The Lord of the Rings: The Two Towers
+Viggo Mortensen,The Lord of the Rings: The Two Towers
+Orlando Bloom,The Lord of the Rings: The Two Towers
+Lilly Wachowski,The Matrix
+Keanu Reeves,The Matrix
+Laurence Fishburne,The Matrix
+Carrie-Anne Moss,The Matrix
+Robert De Niro,Goodfellas
+Ray Liotta,Goodfellas
+Joe Pesci,Goodfellas
+Lorraine Bracco,Goodfellas
+Mark Hamill,Star Wars: Episode V - The Empire Strikes Back
+Harrison Ford,Star Wars: Episode V - The Empire Strikes Back
+Carrie Fisher,Star Wars: Episode V - The Empire Strikes Back
+Billy Dee Williams,Star Wars: Episode V - The Empire Strikes Back
+Jack Nicholson,One Flew Over the Cuckoo's Nest
+Louise Fletcher,One Flew Over the Cuckoo's Nest
+Michael Berryman,One Flew Over the Cuckoo's Nest
+Peter Brocco,One Flew Over the Cuckoo's Nest
+Lin-Manuel Miranda,Hamilton
+Phillipa Soo,Hamilton
+Leslie Odom Jr.,Hamilton
+Renée Elise Goldsberry,Hamilton
+Kang-ho Song,Gisaengchung
+Lee Sun-kyun,Gisaengchung
+Cho Yeo-jeong,Gisaengchung
+Choi Woo-sik,Gisaengchung
+Suriya,Soorarai Pottru
+Madhavan,Soorarai Pottru
+Paresh Rawal,Soorarai Pottru
+Aparna Balamurali,Soorarai Pottru
+Matthew McConaughey,Interstellar
+Anne Hathaway,Interstellar
+Jessica Chastain,Interstellar
+Mackenzie Foy,Interstellar
+Kátia Lund,Cidade de Deus
+Alexandre Rodrigues,Cidade de Deus
+Leandro Firmino,Cidade de Deus
+Matheus Nachtergaele,Cidade de Deus
+Daveigh Chase,Sen to Chihiro no kamikakushi
+Suzanne Pleshette,Sen to Chihiro no kamikakushi
+Miyu Irino,Sen to Chihiro no kamikakushi
+Rumi Hiiragi,Sen to Chihiro no kamikakushi
+Tom Hanks,Saving Private Ryan
+Matt Damon,Saving Private Ryan
+Tom Sizemore,Saving Private Ryan
+Edward Burns,Saving Private Ryan
+Tom Hanks,The Green Mile
+Michael Clarke Duncan,The Green Mile
+David Morse,The Green Mile
+Bonnie Hunt,The Green Mile
+Roberto Benigni,La vita è bella
+Nicoletta Braschi,La vita è bella
+Giorgio Cantarini,La vita è bella
+Giustino Durano,La vita è bella
+Morgan Freeman,Se7en
+Brad Pitt,Se7en
+Kevin Spacey,Se7en
+Andrew Kevin Walker,Se7en
+Jodie Foster,The Silence of the Lambs
+Anthony Hopkins,The Silence of the Lambs
+Lawrence A. Bonney,The Silence of the Lambs
+Kasi Lemmons,The Silence of the Lambs
+Mark Hamill,Star Wars
+Harrison Ford,Star Wars
+Carrie Fisher,Star Wars
+Alec Guinness,Star Wars
+Tatsuya Nakadai,Seppuku
+Akira Ishihama,Seppuku
+Shima Iwashita,Seppuku
+Tetsurô Tanba,Seppuku
+Toshirô Mifune,Shichinin no samurai
+Takashi Shimura,Shichinin no samurai
+Keiko Tsushima,Shichinin no samurai
+Yukiko Shimazaki,Shichinin no samurai
+James Stewart,It's a Wonderful Life
+Donna Reed,It's a Wonderful Life
+Lionel Barrymore,It's a Wonderful Life
+Thomas Mitchell,It's a Wonderful Life
+Joaquin Phoenix,Joker
+Robert De Niro,Joker
+Zazie Beetz,Joker
+Frances Conroy,Joker
+Miles Teller,Whiplash
+J.K. Simmons,Whiplash
+Melissa Benoist,Whiplash
+Paul Reiser,Whiplash
+Éric Toledano,The Intouchables
+François Cluzet,The Intouchables
+Omar Sy,The Intouchables
+Anne Le Ny,The Intouchables
+Christian Bale,The Prestige
+Hugh Jackman,The Prestige
+Scarlett Johansson,The Prestige
+Michael Caine,The Prestige
+Leonardo DiCaprio,The Departed
+Matt Damon,The Departed
+Jack Nicholson,The Departed
+Mark Wahlberg,The Departed
+Adrien Brody,The Pianist
+Thomas Kretschmann,The Pianist
+Frank Finlay,The Pianist
+Emilia Fox,The Pianist
+Russell Crowe,Gladiator
+Joaquin Phoenix,Gladiator
+Connie Nielsen,Gladiator
+Oliver Reed,Gladiator
+Edward Norton,American History X
+Edward Furlong,American History X
+Beverly D'Angelo,American History X
+Jennifer Lien,American History X
+Kevin Spacey,The Usual Suspects
+Gabriel Byrne,The Usual Suspects
+Chazz Palminteri,The Usual Suspects
+Stephen Baldwin,The Usual Suspects
+Jean Reno,Léon
+Gary Oldman,Léon
+Natalie Portman,Léon
+Danny Aiello,Léon
+Rob Minkoff,The Lion King
+Matthew Broderick,The Lion King
+Jeremy Irons,The Lion King
+James Earl Jones,The Lion King
+Arnold Schwarzenegger,Terminator 2: Judgment Day
+Linda Hamilton,Terminator 2: Judgment Day
+Edward Furlong,Terminator 2: Judgment Day
+Robert Patrick,Terminator 2: Judgment Day
+Philippe Noiret,Nuovo Cinema Paradiso
+Enzo Cannavale,Nuovo Cinema Paradiso
+Antonella Attili,Nuovo Cinema Paradiso
+Isa Danieli,Nuovo Cinema Paradiso
+Tsutomu Tatsumi,Hotaru no haka
+Ayano Shiraishi,Hotaru no haka
+Akemi Yamaguchi,Hotaru no haka
+Yoshiko Shinohara,Hotaru no haka
+Michael J. Fox,Back to the Future
+Christopher Lloyd,Back to the Future
+Lea Thompson,Back to the Future
+Crispin Glover,Back to the Future
+Henry Fonda,Once Upon a Time in the West
+Charles Bronson,Once Upon a Time in the West
+Claudia Cardinale,Once Upon a Time in the West
+Jason Robards,Once Upon a Time in the West
+Anthony Perkins,Psycho
+Janet Leigh,Psycho
+Vera Miles,Psycho
+John Gavin,Psycho
+Humphrey Bogart,Casablanca
+Ingrid Bergman,Casablanca
+Paul Henreid,Casablanca
+Claude Rains,Casablanca
+Charles Chaplin,Modern Times
+Paulette Goddard,Modern Times
+Henry Bergman,Modern Times
+Tiny Sandford,Modern Times
+Charles Chaplin,City Lights
+Virginia Cherrill,City Lights
+Florence Lee,City Lights
+Harry Myers,City Lights
+Zain Al Rafeea,Capharnaüm
+Yordanos Shiferaw,Capharnaüm
+Boluwatife Treasure Bankole,Capharnaüm
+Kawsar Al Haddad,Capharnaüm
+Erdem Can,Ayla: The Daughter of War
+Çetin Tekindor,Ayla: The Daughter of War
+Ismail Hacioglu,Ayla: The Daughter of War
+Kyung-jin Lee,Ayla: The Daughter of War
+Pushkar,Vikram Vedha
+Madhavan,Vikram Vedha
+Vijay Sethupathi,Vikram Vedha
+Shraddha Srinath,Vikram Vedha
+Ryûnosuke Kamiki,Kimi no na wa.
+Mone Kamishiraishi,Kimi no na wa.
+Ryô Narita,Kimi no na wa.
+Aoi Yûki,Kimi no na wa.
+Aamir Khan,Dangal
+Sakshi Tanwar,Dangal
+Fatima Sana Shaikh,Dangal
+Sanya Malhotra,Dangal
+Peter Ramsey,Spider-Man: Into the Spider-Verse
+Rodney Rothman,Spider-Man: Into the Spider-Verse
+Shameik Moore,Spider-Man: Into the Spider-Verse
+Jake Johnson,Spider-Man: Into the Spider-Verse
+Joe Russo,Avengers: Endgame
+Robert Downey Jr.,Avengers: Endgame
+Chris Evans,Avengers: Endgame
+Mark Ruffalo,Avengers: Endgame
+Joe Russo,Avengers: Infinity War
+Robert Downey Jr.,Avengers: Infinity War
+Chris Hemsworth,Avengers: Infinity War
+Mark Ruffalo,Avengers: Infinity War
+Adrian Molina,Coco
+Anthony Gonzalez,Coco
+Gael García Bernal,Coco
+Benjamin Bratt,Coco
+Jamie Foxx,Django Unchained
+Christoph Waltz,Django Unchained
+Leonardo DiCaprio,Django Unchained
+Kerry Washington,Django Unchained
+Christian Bale,The Dark Knight Rises
+Tom Hardy,The Dark Knight Rises
+Anne Hathaway,The Dark Knight Rises
+Gary Oldman,The Dark Knight Rises
+Aamir Khan,3 Idiots
+Madhavan,3 Idiots
+Mona Singh,3 Idiots
+Sharman Joshi,3 Idiots
+Amole Gupte,Taare Zameen Par
+Darsheel Safary,Taare Zameen Par
+Aamir Khan,Taare Zameen Par
+Tisca Chopra,Taare Zameen Par
+Ben Burtt,WALL·E
+Elissa Knight,WALL·E
+Jeff Garlin,WALL·E
+Fred Willard,WALL·E
+Ulrich Mühe,The Lives of Others
+Martina Gedeck,The Lives of Others
+Sebastian Koch,The Lives of Others
+Ulrich Tukur,The Lives of Others
+Choi Min-sik,Oldeuboi
+Yoo Ji-Tae,Oldeuboi
+Kang Hye-jeong,Oldeuboi
+Kim Byeong-Ok,Oldeuboi
+Guy Pearce,Memento
+Carrie-Anne Moss,Memento
+Joe Pantoliano,Memento
+Mark Boone Junior,Memento
+Yôji Matsuda,Mononoke-hime
+Yuriko Ishida,Mononoke-hime
+Yûko Tanaka,Mononoke-hime
+Billy Crudup,Mononoke-hime
+Robert De Niro,Once Upon a Time in America
+James Woods,Once Upon a Time in America
+Elizabeth McGovern,Once Upon a Time in America
+Treat Williams,Once Upon a Time in America
+Harrison Ford,Raiders of the Lost Ark
+Karen Allen,Raiders of the Lost Ark
+Paul Freeman,Raiders of the Lost Ark
+John Rhys-Davies,Raiders of the Lost Ark
+Jack Nicholson,The Shining
+Shelley Duvall,The Shining
+Danny Lloyd,The Shining
+Scatman Crothers,The Shining
+Martin Sheen,Apocalypse Now
+Marlon Brando,Apocalypse Now
+Robert Duvall,Apocalypse Now
+Frederic Forrest,Apocalypse Now
+Sigourney Weaver,Alien
+Tom Skerritt,Alien
+John Hurt,Alien
+Veronica Cartwright,Alien
+Rajesh Khanna,Anand
+Amitabh Bachchan,Anand
+Sumita Sanyal,Anand
+Ramesh Deo,Anand
+Toshirô Mifune,Tengoku to jigoku
+Yutaka Sada,Tengoku to jigoku
+Tatsuya Nakadai,Tengoku to jigoku
+Kyôko Kagawa,Tengoku to jigoku
+Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+George C. Scott,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Sterling Hayden,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Keenan Wynn,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Tyrone Power,Witness for the Prosecution
+Marlene Dietrich,Witness for the Prosecution
+Charles Laughton,Witness for the Prosecution
+Elsa Lanchester,Witness for the Prosecution
+Kirk Douglas,Paths of Glory
+Ralph Meeker,Paths of Glory
+Adolphe Menjou,Paths of Glory
+George Macready,Paths of Glory
+James Stewart,Rear Window
+Grace Kelly,Rear Window
+Wendell Corey,Rear Window
+Thelma Ritter,Rear Window
+William Holden,Sunset Blvd.
+Gloria Swanson,Sunset Blvd.
+Erich von Stroheim,Sunset Blvd.
+Nancy Olson,Sunset Blvd.
+Charles Chaplin,The Great Dictator
+Paulette Goddard,The Great Dictator
+Jack Oakie,The Great Dictator
+Reginald Gardiner,The Great Dictator
+Dean-Charles Chapman,1917
+George MacKay,1917
+Daniel Mays,1917
+Colin Firth,1917
+Anand Gandhi,Tumbbad
+Adesh Prasad,Tumbbad
+Sohum Shah,Tumbbad
+Jyoti Malshe,Tumbbad
+Ayushmann Khurrana,Andhadhun
+Tabu,Andhadhun
+Radhika Apte,Andhadhun
+Anil Dhawan,Andhadhun
+Mohanlal,Drishyam
+Meena,Drishyam
+Asha Sharath,Drishyam
+Ansiba,Drishyam
+Mads Mikkelsen,Jagten
+Thomas Bo Larsen,Jagten
+Annika Wedderkopp,Jagten
+Lasse Fogelstrøm,Jagten
+Payman Maadi,Jodaeiye Nader az Simin
+Leila Hatami,Jodaeiye Nader az Simin
+Sareh Bayat,Jodaeiye Nader az Simin
+Shahab Hosseini,Jodaeiye Nader az Simin
+Lubna Azabal,Incendies
+Mélissa Désormeaux-Poulin,Incendies
+Maxim Gaudette,Incendies
+Mustafa Kamel,Incendies
+Aras Bulut Iynemli,Miracle in cell NO.7
+Nisa Sofiya Aksongur,Miracle in cell NO.7
+Deniz Baysal,Miracle in cell NO.7
+Celile Toyon Uysal,Miracle in cell NO.7
+Çetin Tekindor,Babam ve Oglum
+Fikret Kuskan,Babam ve Oglum
+Hümeyra,Babam ve Oglum
+Ege Tanman,Babam ve Oglum
+Brad Pitt,Inglourious Basterds
+Diane Kruger,Inglourious Basterds
+Eli Roth,Inglourious Basterds
+Mélanie Laurent,Inglourious Basterds
+Jim Carrey,Eternal Sunshine of the Spotless Mind
+Kate Winslet,Eternal Sunshine of the Spotless Mind
+Tom Wilkinson,Eternal Sunshine of the Spotless Mind
+Gerry Robert Byrne,Eternal Sunshine of the Spotless Mind
+Audrey Tautou,Amélie
+Mathieu Kassovitz,Amélie
+Rufus,Amélie
+Lorella Cravotta,Amélie
+Jason Statham,Snatch
+Brad Pitt,Snatch
+Benicio Del Toro,Snatch
+Dennis Farina,Snatch
+Ellen Burstyn,Requiem for a Dream
+Jared Leto,Requiem for a Dream
+Jennifer Connelly,Requiem for a Dream
+Marlon Wayans,Requiem for a Dream
+Kevin Spacey,American Beauty
+Annette Bening,American Beauty
+Thora Birch,American Beauty
+Wes Bentley,American Beauty
+Robin Williams,Good Will Hunting
+Matt Damon,Good Will Hunting
+Ben Affleck,Good Will Hunting
+Stellan Skarsgård,Good Will Hunting
+Mohammad Amir Naji,Bacheha-Ye aseman
+Amir Farrokh Hashemian,Bacheha-Ye aseman
+Bahare Seddiqi,Bacheha-Ye aseman
+Nafise Jafar-Mohammadi,Bacheha-Ye aseman
+Tom Hanks,Toy Story
+Tim Allen,Toy Story
+Don Rickles,Toy Story
+Jim Varney,Toy Story
+Mel Gibson,Braveheart
+Sophie Marceau,Braveheart
+Patrick McGoohan,Braveheart
+Angus Macfadyen,Braveheart
+Harvey Keitel,Reservoir Dogs
+Tim Roth,Reservoir Dogs
+Michael Madsen,Reservoir Dogs
+Chris Penn,Reservoir Dogs
+Matthew Modine,Full Metal Jacket
+R. Lee Ermey,Full Metal Jacket
+Vincent D'Onofrio,Full Metal Jacket
+Adam Baldwin,Full Metal Jacket
+Aleksey Kravchenko,Idi i smotri
+Olga Mironova,Idi i smotri
+Liubomiras Laucevicius,Idi i smotri
+Vladas Bagdonas,Idi i smotri
+Sigourney Weaver,Aliens
+Michael Biehn,Aliens
+Carrie Henn,Aliens
+Paul Reiser,Aliens
+F. Murray Abraham,Amadeus
+Tom Hulce,Amadeus
+Elizabeth Berridge,Amadeus
+Roy Dotrice,Amadeus
+Al Pacino,Scarface
+Michelle Pfeiffer,Scarface
+Steven Bauer,Scarface
+Mary Elizabeth Mastrantonio,Scarface
+Mark Hamill,Star Wars: Episode VI - Return of the Jedi
+Harrison Ford,Star Wars: Episode VI - Return of the Jedi
+Carrie Fisher,Star Wars: Episode VI - Return of the Jedi
+Billy Dee Williams,Star Wars: Episode VI - Return of the Jedi
+Jürgen Prochnow,Das Boot
+Herbert Grönemeyer,Das Boot
+Klaus Wennemann,Das Boot
+Hubertus Bengsch,Das Boot
+Robert De Niro,Taxi Driver
+Jodie Foster,Taxi Driver
+Cybill Shepherd,Taxi Driver
+Albert Brooks,Taxi Driver
+Paul Newman,The Sting
+Robert Redford,The Sting
+Robert Shaw,The Sting
+Charles Durning,The Sting
+Malcolm McDowell,A Clockwork Orange
+Patrick Magee,A Clockwork Orange
+Michael Bates,A Clockwork Orange
+Warren Clarke,A Clockwork Orange
+Keir Dullea,2001: A Space Odyssey
+Gary Lockwood,2001: A Space Odyssey
+William Sylvester,2001: A Space Odyssey
+Daniel Richter,2001: A Space Odyssey
+Clint Eastwood,Per qualche dollaro in più
+Lee Van Cleef,Per qualche dollaro in più
+Gian Maria Volontè,Per qualche dollaro in più
+Mara Krupp,Per qualche dollaro in più
+Peter O'Toole,Lawrence of Arabia
+Alec Guinness,Lawrence of Arabia
+Anthony Quinn,Lawrence of Arabia
+Jack Hawkins,Lawrence of Arabia
+Jack Lemmon,The Apartment
+Shirley MacLaine,The Apartment
+Fred MacMurray,The Apartment
+Ray Walston,The Apartment
+Cary Grant,North by Northwest
+Eva Marie Saint,North by Northwest
+James Mason,North by Northwest
+Jessie Royce Landis,North by Northwest
+James Stewart,Vertigo
+Kim Novak,Vertigo
+Barbara Bel Geddes,Vertigo
+Tom Helmore,Vertigo
+Gene Kelly,Singin' in the Rain
+Gene Kelly,Singin' in the Rain
+Donald O'Connor,Singin' in the Rain
+Debbie Reynolds,Singin' in the Rain
+Takashi Shimura,Ikiru
+Nobuo Kaneko,Ikiru
+Shin'ichi Himori,Ikiru
+Haruo Tanaka,Ikiru
+Lamberto Maggiorani,Ladri di biciclette
+Enzo Staiola,Ladri di biciclette
+Lianella Carell,Ladri di biciclette
+Elena Altieri,Ladri di biciclette
+Fred MacMurray,Double Indemnity
+Barbara Stanwyck,Double Indemnity
+Edward G. Robinson,Double Indemnity
+Byron Barr,Double Indemnity
+Orson Welles,Citizen Kane
+Joseph Cotten,Citizen Kane
+Dorothy Comingore,Citizen Kane
+Agnes Moorehead,Citizen Kane
+Peter Lorre,M - Eine Stadt sucht einen Mörder
+Ellen Widmann,M - Eine Stadt sucht einen Mörder
+Inge Landgut,M - Eine Stadt sucht einen Mörder
+Otto Wernicke,M - Eine Stadt sucht einen Mörder
+Brigitte Helm,Metropolis
+Alfred Abel,Metropolis
+Gustav Fröhlich,Metropolis
+Rudolf Klein-Rogge,Metropolis
+Charles Chaplin,The Kid
+Edna Purviance,The Kid
+Jackie Coogan,The Kid
+Carl Miller,The Kid
+Sushant Singh Rajput,Chhichhore
+Shraddha Kapoor,Chhichhore
+Varun Sharma,Chhichhore
+Prateik,Chhichhore
+Vicky Kaushal,Uri: The Surgical Strike
+Paresh Rawal,Uri: The Surgical Strike
+Mohit Raina,Uri: The Surgical Strike
+Yami Gautam,Uri: The Surgical Strike
+Yash,K.G.F: Chapter 1
+Srinidhi Shetty,K.G.F: Chapter 1
+Ramachandra Raju,K.G.F: Chapter 1
+Archana Jois,K.G.F: Chapter 1
+Viggo Mortensen,Green Book
+Mahershala Ali,Green Book
+Linda Cardellini,Green Book
+Sebastian Maniscalco,Green Book
+Frances McDormand,"Three Billboards Outside Ebbing, Missouri"
+Woody Harrelson,"Three Billboards Outside Ebbing, Missouri"
+Sam Rockwell,"Three Billboards Outside Ebbing, Missouri"
+Caleb Landry Jones,"Three Billboards Outside Ebbing, Missouri"
+Irrfan Khan,Talvar
+Konkona Sen Sharma,Talvar
+Neeraj Kabi,Talvar
+Sohum Shah,Talvar
+Prabhas,Baahubali 2: The Conclusion
+Rana Daggubati,Baahubali 2: The Conclusion
+Anushka Shetty,Baahubali 2: The Conclusion
+Tamannaah Bhatia,Baahubali 2: The Conclusion
+Carlos Martínez López,Klaus
+Jason Schwartzman,Klaus
+J.K. Simmons,Klaus
+Rashida Jones,Klaus
+Ajay Devgn,Drishyam
+Shriya Saran,Drishyam
+Tabu,Drishyam
+Rajat Kapoor,Drishyam
+Kangana Ranaut,Queen
+Rajkummar Rao,Queen
+Lisa Haydon,Queen
+Jeffrey Ho,Queen
+Lembit Ulfsak,Mandariinid
+Elmo Nüganen,Mandariinid
+Giorgi Nakashidze,Mandariinid
+Misha Meskhi,Mandariinid
+Farhan Akhtar,Bhaag Milkha Bhaag
+Sonam Kapoor,Bhaag Milkha Bhaag
+Pawan Malhotra,Bhaag Milkha Bhaag
+Art Malik,Bhaag Milkha Bhaag
+Manoj Bajpayee,Gangs of Wasseypur
+Richa Chadha,Gangs of Wasseypur
+Nawazuddin Siddiqui,Gangs of Wasseypur
+Tigmanshu Dhulia,Gangs of Wasseypur
+Rajat Barmecha,Udaan
+Ronit Roy,Udaan
+Manjot Singh,Udaan
+Ram Kapoor,Udaan
+Irrfan Khan,Paan Singh Tomar
+Mahie Gill,Paan Singh Tomar
+Rajesh Abhay,Paan Singh Tomar
+Hemendra Dandotiya,Paan Singh Tomar
+Ricardo Darín,El secreto de sus ojos
+Soledad Villamil,El secreto de sus ojos
+Pablo Rago,El secreto de sus ojos
+Carla Quevedo,El secreto de sus ojos
+Tom Hardy,Warrior
+Nick Nolte,Warrior
+Joel Edgerton,Warrior
+Jennifer Morrison,Warrior
+Leonardo DiCaprio,Shutter Island
+Emily Mortimer,Shutter Island
+Mark Ruffalo,Shutter Island
+Ben Kingsley,Shutter Island
+Bob Peterson,Up
+Edward Asner,Up
+Jordan Nagai,Up
+John Ratzenberger,Up
+Leonardo DiCaprio,The Wolf of Wall Street
+Jonah Hill,The Wolf of Wall Street
+Margot Robbie,The Wolf of Wall Street
+Matthew McConaughey,The Wolf of Wall Street
+Shah Rukh Khan,Chak De! India
+Vidya Malvade,Chak De! India
+Sagarika Ghatge,Chak De! India
+Shilpa Shukla,Chak De! India
+Daniel Day-Lewis,There Will Be Blood
+Paul Dano,There Will Be Blood
+Ciarán Hinds,There Will Be Blood
+Martin Stringer,There Will Be Blood
+Ivana Baquero,Pan's Labyrinth
+Ariadna Gil,Pan's Labyrinth
+Sergi López,Pan's Labyrinth
+Maribel Verdú,Pan's Labyrinth
+Tom Hanks,Toy Story 3
+Tim Allen,Toy Story 3
+Joan Cusack,Toy Story 3
+Ned Beatty,Toy Story 3
+Hugo Weaving,V for Vendetta
+Natalie Portman,V for Vendetta
+Rupert Graves,V for Vendetta
+Stephen Rea,V for Vendetta
+Aamir Khan,Rang De Basanti
+Soha Ali Khan,Rang De Basanti
+Siddharth,Rang De Basanti
+Sharman Joshi,Rang De Basanti
+Amitabh Bachchan,Black
+Rani Mukerji,Black
+Shernaz Patel,Black
+Ayesha Kapoor,Black
+Christian Bale,Batman Begins
+Michael Caine,Batman Begins
+Ken Watanabe,Batman Begins
+Liam Neeson,Batman Begins
+Shah Rukh Khan,"Swades: We, the People"
+Gayatri Joshi,"Swades: We, the People"
+Kishori Ballal,"Swades: We, the People"
+Smit Sheth,"Swades: We, the People"
+Bruno Ganz,Der Untergang
+Alexandra Maria Lara,Der Untergang
+Ulrich Matthes,Der Untergang
+Juliane Köhler,Der Untergang
+Chieko Baishô,Hauru no ugoku shiro
+Takuya Kimura,Hauru no ugoku shiro
+Tatsuya Gashûin,Hauru no ugoku shiro
+Akihiro Miwa,Hauru no ugoku shiro
+Russell Crowe,A Beautiful Mind
+Ed Harris,A Beautiful Mind
+Jennifer Connelly,A Beautiful Mind
+Christopher Plummer,A Beautiful Mind
+Akshay Kumar,Hera Pheri
+Sunil Shetty,Hera Pheri
+Paresh Rawal,Hera Pheri
+Tabu,Hera Pheri
+Jason Flemyng,"Lock, Stock and Two Smoking Barrels"
+Dexter Fletcher,"Lock, Stock and Two Smoking Barrels"
+Nick Moran,"Lock, Stock and Two Smoking Barrels"
+Jason Statham,"Lock, Stock and Two Smoking Barrels"
+Kevin Spacey,L.A. Confidential
+Russell Crowe,L.A. Confidential
+Guy Pearce,L.A. Confidential
+Kim Basinger,L.A. Confidential
+Sener Sen,Eskiya
+Ugur Yücel,Eskiya
+Sermin Hürmeriç,Eskiya
+Yesim Salkim,Eskiya
+Al Pacino,Heat
+Robert De Niro,Heat
+Val Kilmer,Heat
+Jon Voight,Heat
+Robert De Niro,Casino
+Sharon Stone,Casino
+Joe Pesci,Casino
+James Woods,Casino
+Aamir Khan,Andaz Apna Apna
+Salman Khan,Andaz Apna Apna
+Raveena Tandon,Andaz Apna Apna
+Karisma Kapoor,Andaz Apna Apna
+Clint Eastwood,Unforgiven
+Gene Hackman,Unforgiven
+Morgan Freeman,Unforgiven
+Richard Harris,Unforgiven
+Harrison Ford,Indiana Jones and the Last Crusade
+Sean Connery,Indiana Jones and the Last Crusade
+Alison Doody,Indiana Jones and the Last Crusade
+Denholm Elliott,Indiana Jones and the Last Crusade
+Davor Dujmovic,Dom za vesanje
+Bora Todorovic,Dom za vesanje
+Ljubica Adzovic,Dom za vesanje
+Husnija Hasimovic,Dom za vesanje
+Hitoshi Takagi,Tonari no Totoro
+Noriko Hidaka,Tonari no Totoro
+Chika Sakamoto,Tonari no Totoro
+Shigesato Itoi,Tonari no Totoro
+Bruce Willis,Die Hard
+Alan Rickman,Die Hard
+Bonnie Bedelia,Die Hard
+Reginald VelJohnson,Die Hard
+Tatsuya Nakadai,Ran
+Akira Terao,Ran
+Jinpachi Nezu,Ran
+Daisuke Ryû,Ran
+Robert De Niro,Raging Bull
+Cathy Moriarty,Raging Bull
+Joe Pesci,Raging Bull
+Frank Vincent,Raging Bull
+Alisa Freyndlikh,Stalker
+Aleksandr Kaydanovskiy,Stalker
+Anatoliy Solonitsyn,Stalker
+Nikolay Grinko,Stalker
+Ingrid Bergman,Höstsonaten
+Liv Ullmann,Höstsonaten
+Lena Nyman,Höstsonaten
+Halvar Björk,Höstsonaten
+Anthony Quinn,The Message
+Irene Papas,The Message
+Michael Ansara,The Message
+Johnny Sekka,The Message
+Sanjeev Kumar,Sholay
+Dharmendra,Sholay
+Amitabh Bachchan,Sholay
+Amjad Khan,Sholay
+Terry Jones,Monty Python and the Holy Grail
+Graham Chapman,Monty Python and the Holy Grail
+John Cleese,Monty Python and the Holy Grail
+Eric Idle,Monty Python and the Holy Grail
+Steve McQueen,The Great Escape
+James Garner,The Great Escape
+Richard Attenborough,The Great Escape
+Charles Bronson,The Great Escape
+Gregory Peck,To Kill a Mockingbird
+John Megna,To Kill a Mockingbird
+Frank Overton,To Kill a Mockingbird
+Rosemary Murphy,To Kill a Mockingbird
+Toshirô Mifune,Yôjinbô
+Eijirô Tôno,Yôjinbô
+Tatsuya Nakadai,Yôjinbô
+Yôko Tsukasa,Yôjinbô
+Spencer Tracy,Judgment at Nuremberg
+Burt Lancaster,Judgment at Nuremberg
+Richard Widmark,Judgment at Nuremberg
+Marlene Dietrich,Judgment at Nuremberg
+Marilyn Monroe,Some Like It Hot
+Tony Curtis,Some Like It Hot
+Jack Lemmon,Some Like It Hot
+George Raft,Some Like It Hot
+Victor Sjöström,Smultronstället
+Bibi Andersson,Smultronstället
+Ingrid Thulin,Smultronstället
+Gunnar Björnstrand,Smultronstället
+Max von Sydow,Det sjunde inseglet
+Gunnar Björnstrand,Det sjunde inseglet
+Bengt Ekerot,Det sjunde inseglet
+Nils Poppe,Det sjunde inseglet
+Jean Servais,Du rififi chez les hommes
+Carl Möhner,Du rififi chez les hommes
+Robert Manuel,Du rififi chez les hommes
+Janine Darcey,Du rififi chez les hommes
+Ray Milland,Dial M for Murder
+Grace Kelly,Dial M for Murder
+Robert Cummings,Dial M for Murder
+John Williams,Dial M for Murder
+Chishû Ryû,Tôkyô monogatari
+Chieko Higashiyama,Tôkyô monogatari
+Sô Yamamura,Tôkyô monogatari
+Setsuko Hara,Tôkyô monogatari
+Toshirô Mifune,Rashômon
+Machiko Kyô,Rashômon
+Masayuki Mori,Rashômon
+Takashi Shimura,Rashômon
+Bette Davis,All About Eve
+Anne Baxter,All About Eve
+George Sanders,All About Eve
+Celeste Holm,All About Eve
+Humphrey Bogart,The Treasure of the Sierra Madre
+Walter Huston,The Treasure of the Sierra Madre
+Tim Holt,The Treasure of the Sierra Madre
+Bruce Bennett,The Treasure of the Sierra Madre
+Carole Lombard,To Be or Not to Be
+Jack Benny,To Be or Not to Be
+Robert Stack,To Be or Not to Be
+Felix Bressart,To Be or Not to Be
+Charles Chaplin,The Gold Rush
+Mack Swain,The Gold Rush
+Tom Murray,The Gold Rush
+Henry Bergman,The Gold Rush
+Buster Keaton,Sherlock Jr.
+Kathryn McGuire,Sherlock Jr.
+Joe Keaton,Sherlock Jr.
+Erwin Connelly,Sherlock Jr.
+Noémie Merlant,Portrait de la jeune fille en feu
+Adèle Haenel,Portrait de la jeune fille en feu
+Luàna Bajrami,Portrait de la jeune fille en feu
+Valeria Golino,Portrait de la jeune fille en feu
+Taapsee Pannu,Pink
+Amitabh Bachchan,Pink
+Kirti Kulhari,Pink
+Andrea Tariang,Pink
+Miyu Irino,Koe no katachi
+Saori Hayami,Koe no katachi
+Aoi Yûki,Koe no katachi
+Kenshô Ono,Koe no katachi
+Mario Casas,Contratiempo
+Ana Wagener,Contratiempo
+Jose Coronado,Contratiempo
+Bárbara Lennie,Contratiempo
+Kim Min-hee,Ah-ga-ssi
+Jung-woo Ha,Ah-ga-ssi
+Cho Jin-woong,Ah-ga-ssi
+Moon So-Ri,Ah-ga-ssi

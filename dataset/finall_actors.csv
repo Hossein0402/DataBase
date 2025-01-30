@@ -1,0 +1,665 @@
+name,age,nationality,gender
+Ege Tanman,27.0, Turkey,man
+Gian Maria Volontè,61.0, Lombardy,man
+Yami Gautam,37.0, Punjab,man
+Karen Allen,74.0, Illinois,man
+Lubna Azabal,52.0, Belgium,man
+Hemendra Dandotiya,0.0,Unknown,man
+Jung-woo Ha,0.0,Unknown,man
+Meat Loaf,75.0, Texas,man
+Ayano Shiraishi,0.0,Unknown,man
+Klaus Wennemann,60.0, North Rhine-Westphalia,man
+Anthony Hopkins,88.0, Port Talbot,man
+Frederic Forrest,87.0, Texas,man
+Anatoliy Solonitsyn,48.0, Bogorodskiy rayon,man
+Carole Lombard,34.0, Indiana,man
+Frank Overton,49.0, New York,man
+Ellen Widmann,91.0, Switzerland,man
+Rosemary Murphy,89.0, Bavaria,man
+Yesim Salkim,57.0, Turkey,man
+Jackie Coogan,70.0, California,man
+Emilia Fox,51.0, England,man
+Florence Lee,74.0, USA,man
+Smit Sheth,0.0, Maharahstra,man
+Irene Papas,93.0, Corinth,man
+Michael J. Fox,64.0, Alberta,man
+Peter O'Toole,81.0, Leeds,man
+Samuel L. Jackson,77.0, USA,man
+Chieko Baishô,84.0, Japan,man
+Daniel Richter,86.0, Connecticut,man
+Richard Harris,72.0, Ireland,man
+David Morse,72.0, Massachusetts,man
+Celile Toyon Uysal,81.0, Turkey,man
+Robert Redford,89.0, California,man
+Kasi Lemmons,64.0, Missouri,man
+Kate Winslet,50.0, Berkshire,man
+Çetin Tekindor,80.0, Turkey,man
+Caroline Goodall,66.0, England,man
+Diane Keaton,79.0, California,man
+Akemi Yamaguchi,0.0,Unknown,man
+François Cluzet,70.0, France,man
+Neeraj Kabi,57.0, Jharkhand,man
+Leila Hatami,53.0, Iran,man
+Prateik,0.0, Maharashtra,man
+Nisa Sofiya Aksongur,14.0, Turkey,man
+Dorothy Comingore,58.0, California,man
+Rajesh Abhay,0.0,Unknown,man
+Sakshi Tanwar,52.0, Rajasthan,man
+Max von Sydow,91.0, Skåne län,man
+Elsa Lanchester,84.0, London,man
+Richard Attenborough,91.0, Cambridgeshire,man
+Connie Nielsen,60.0, Frederikshavn,man
+Barbara Stanwyck,83.0, New York City,man
+Gabriel Byrne,75.0, Ireland,man
+Thelma Ritter,67.0, New York,man
+Ingrid Thulin,78.0, Västernorrlands län,man
+Adrian Molina,0.0,Unknown,man
+Benicio Del Toro,58.0, Puerto Rico,man
+Aaron Eckhart,57.0, California,man
+Hubertus Bengsch,73.0, Germany,man
+Prabhas,0.0, Tamil Nadu,man
+Shernaz Patel,0.0, Maharashtra,man
+Kang-ho Song,0.0, South Gyeongsang Povince,man
+Ray Liotta,68.0, New Jersey,man
+Joseph Cotten,89.0, Virginia,man
+Tom Sizemore,62.0, Michigan,man
+Thora Birch,43.0, California,man
+Pablo Rago,53.0, Federal District,man
+Matt Damon,55.0, Massachusetts,man
+Ken Watanabe,66.0, Japan,man
+Tom Hanks,69.0, California,man
+Roberto Benigni,73.0, Castiglion Fiorentino,man
+Fred MacMurray,83.0, Illinois,man
+Ayesha Kapoor,25.0, India,man
+Anne Le Ny,63.0, Hauts-de-Seine,man
+Hümeyra,78.0, Turkey,man
+Pushkar,0.0,Unknown,man
+Choi Min-sik,63.0, South Korea,man
+John Gavin,87.0, Illinois,man
+Leslie Odom Jr.,44.0, New York,man
+Charles Durning,89.0, New York,man
+Sener Sen,84.0, Turkey,man
+Suzanne Pleshette,71.0, New York,man
+Wendell Corey,54.0, Massachusetts,man
+Albert Brooks,78.0, California,man
+Vladas Bagdonas,76.0, Lithuanian SSR,man
+Lena Nyman,67.0, Sweden,man
+Kyung-jin Lee,0.0, Chungcheongnam-do,man
+Jason Flemyng,59.0, London,man
+Paul Dano,41.0, New York,man
+Shigesato Itoi,77.0, Gunma,man
+Mario Casas,0.0, A Coruña,man
+Clint Eastwood,95.0, California,man
+Phillipa Soo,35.0, Illinois,man
+Éric Toledano,54.0, France,man
+Jürgen Prochnow,84.0, Germany,man
+Ram Kapoor,52.0, Maharashtra,man
+Akshay Kumar,58.0, Punjab,man
+Liv Ullmann,87.0, Japan,man
+Siddharth,41.0, India,man
+Carlos Martínez López,0.0,Unknown,man
+Barbara Bel Geddes,83.0, New York,man
+Rudolf Klein-Rogge,70.0, Germany,man
+Ulrich Mühe,54.0, East Germany,man
+Inge Landgut,64.0, Germany,man
+Michael Berryman,77.0, California,man
+Anne Hathaway,43.0, New York City,man
+Art Malik,73.0, Pakistan,man
+Orson Welles,70.0, Wisconsin,man
+Angus Macfadyen,62.0, Scotland,man
+Harrison Ford,83.0, Illinois,man
+Toshirô Mifune,77.0, China [now Qingdao,man
+Ansiba,33.0, Kerala,man
+Robert Cummings,80.0, Missouri,man
+Noriko Hidaka,63.0, Japan,man
+Bahare Seddiqi,0.0,Unknown,man
+Gunnar Björnstrand,77.0, Stockholms län,man
+Reginald VelJohnson,73.0, New York,man
+Halvar Björk,72.0, Jämtlands län,man
+John Williams,93.0, Queens,man
+Rajat Kapoor,64.0, India,man
+Agnes Moorehead,74.0, Massachusetts,man
+Mahershala Ali,51.0, California,man
+Tsutomu Tatsumi,0.0,Unknown,man
+Salman Khan,60.0, Madhya Pradesh,man
+Mads Mikkelsen,60.0, Copenhagen,man
+Danny Lloyd,53.0, Illinois,man
+Giorgi Nakashidze,0.0,Unknown,man
+Enzo Staiola,86.0, Lazio,man
+Margot Robbie,35.0, Queensland,man
+Gayatri Joshi,0.0, Maharashtra,man
+Reginald Gardiner,77.0, England,man
+Anthony Quinn,86.0, Mexico,man
+Celeste Holm,95.0, New York City,man
+F. Murray Abraham,86.0, Pennsylvania,man
+Jim Varney,51.0, Kentucky,man
+Kerry Washington,48.0, New York City,man
+Suriya,0.0, Tamil Nadu,man
+Ralph Fiennes,63.0, Suffolk,man
+Harvey Keitel,86.0, New York,man
+Varun Sharma,0.0, Punjab,man
+Claudia Cardinale,87.0, French Protectorate Tunisia [now Tunisia],man
+Daniel Mays,47.0, Essex,man
+Mel Gibson,69.0, New York,man
+Ellen Burstyn,93.0, Michigan,man
+Brad Pitt,62.0, Oklahoma,man
+Elena Altieri,87.0, Piedmont,man
+Jennifer Morrison,0.0, Illinois,man
+Takuya Kimura,53.0, Japan,man
+Mahie Gill,50.0, India,man
+Beverly D'Angelo,74.0, Ohio,man
+Russell Crowe,61.0, New Zealand,man
+Rufus,83.0, Middlesex,man
+Ajay Devgn,56.0, India,man
+Jeremy Irons,77.0, Isle of Wight,man
+Kim Min-hee,43.0,Unknown,man
+Aparna Balamurali,30.0, Kerala,man
+Patrick Magee,60.0, Northern Ireland,man
+Joseph Gordon-Levitt,44.0, California,man
+Alec Guinness,86.0, London,man
+Adam Baldwin,63.0, Illinois,man
+Rajkummar Rao,41.0, Haryana,man
+Omar Sy,47.0, Yvelines,man
+Grace Kelly,53.0, Pennsylvania,man
+Cary Grant,82.0, Bristol,man
+Joe Keaton,79.0, Indiana,man
+Ben Affleck,53.0, California,man
+Tony Curtis,85.0, New York City,man
+Jack Lemmon,76.0, Massachusetts,man
+Sigourney Weaver,76.0, New York City,man
+Leonardo DiCaprio,51.0, Los Angeles,man
+Takashi Shimura,77.0, Hyogo,man
+Leandro Firmino,47.0, Rio de Janeiro,man
+Jason Statham,58.0, Derbyshire,man
+Konkona Sen Sharma,46.0, India,man
+Sunil Shetty,0.0, Mysore State,man
+Steven Bauer,69.0, Cuba,man
+Bengt Ekerot,51.0, Stockholms län,man
+Robert De Niro,82.0, New York,man
+Ivana Baquero,31.0, Barcelona,man
+Eva Marie Saint,101.0, New Jersey,man
+Vidya Malvade,52.0, Maharashtra,man
+Machiko Kyô,95.0, Japan,man
+George MacKay,33.0, England,man
+Melissa Benoist,37.0, Texas,man
+Lorella Cravotta,67.0,Unknown,man
+Terry Jones,78.0, Wales,man
+Shahab Hosseini,0.0, Iran,man
+Ben Burtt,77.0, New York,man
+Mohammad Amir Naji,0.0,Unknown,man
+Robin Williams,63.0, Illinois,man
+Shraddha Srinath,35.0, Jammu & Kashmir,man
+Ingrid Bergman,67.0, Sweden,man
+Mark Ruffalo,58.0, Wisconsin,man
+Debbie Reynolds,84.0, Texas,man
+Mark Hamill,0.0, California,man
+Yuriko Ishida,56.0, Japan,man
+Crispin Glover,0.0, New York,man
+Peter Sellers,55.0, Hampshire,man
+Gerry Robert Byrne,0.0,Unknown,man
+John Cleese,86.0, Somerset,man
+Shriya Saran,43.0, Uttar Pradesh,man
+Sharon Stone,67.0, Pennsylvania,man
+Lee Sun-kyun,48.0, South Korea,man
+Isa Danieli,88.0, Campania,man
+Natalie Portman,44.0, Israel,man
+Nils Poppe,92.0, Skåne län,man
+Adrien Brody,52.0, Queens,man
+Mary Elizabeth Mastrantonio,67.0, Illinois,man
+Mark Boone Junior,70.0, Ohio,man
+Jon Voight,87.0, New York,man
+Colin Firth,65.0, Hampshire,man
+Chris Evans,59.0, Massachusetts,man
+Wes Bentley,47.0, Arkansas,man
+Bonnie Bedelia,77.0, New York,man
+Mélanie Laurent,42.0, France,man
+Chris Hemsworth,42.0, Victoria,man
+Gary Oldman,67.0, London,man
+Erich von Stroheim,72.0, Austria-Hungary [now Austria],man
+Darsheel Safary,28.0, Maharashtra,man
+Sergi López,60.0, Barcelona,man
+Steve McQueen,50.0, Indiana,man
+Hitoshi Takagi,79.0,Unknown,man
+Dean-Charles Chapman,28.0, Essex,man
+Morgan Freeman,88.0, Tennessee,man
+Mathieu Kassovitz,58.0, France,man
+Eric Idle,82.0, Tyne and Wear,man
+Nikolay Grinko,69.0, Ukrainian SSR [now Ukraine],man
+Tom Helmore,91.0, England,man
+Madhavan,55.0, Bihar,man
+Lawrence A. Bonney,0.0,Unknown,man
+Chika Sakamoto,66.0, Japan,man
+Cho Jin-woong,49.0, South Korea,man
+Akihiro Miwa,90.0, Japan,man
+Paul Newman,83.0, Ohio,man
+Jean Servais,66.0, Belgium,man
+Tisca Chopra,52.0, Himachal Pradesh,man
+Mack Swain,59.0, Utah,man
+Bruno Ganz,78.0, Switzerland,man
+Robert Stack,84.0, California,man
+Choi Woo-sik,35.0, South Korea,man
+George C. Scott,72.0, Virginia,man
+Joan Cusack,63.0, New York,man
+Lorraine Bracco,71.0, Brooklyn,man
+Lionel Barrymore,76.0, Pennsylvania,man
+Bárbara Lennie,41.0, Madrid,man
+Byron Barr,49.0, Minnesota,man
+Jean Reno,77.0, French Protectorate of Morocco [now Morocco],man
+Jeff Garlin,63.0, Illinois,man
+Rana Daggubati,41.0, Tamil Nadu,man
+Veronica Cartwright,76.0, England,man
+William Holden,63.0,Unknown,man
+Dennis Farina,69.0,Unknown,man
+Jessie Royce Landis,76.0, Illinois,man
+Bora Todorovic,85.0, Serbia,man
+Soledad Villamil,56.0, Buenos Aires,man
+Ramachandra Raju,45.0, Karanataka,man
+Scarlett Johansson,41.0, New York City,man
+Amitabh Bachchan,83.0, United Provinces,man
+Husnija Hasimovic,,Unknown,man
+Davor Dujmovic,30.0, Bosnia and Herzegovina,man
+Mark Wahlberg,54.0, Boston,man
+Sô Yamamura,90.0, Japan,man
+Sareh Bayat,46.0, Iran,man
+Nobuo Kaneko,72.0,Unknown,man
+Uma Thurman,55.0, Massachusetts,man
+Ljubica Adzovic,82.0, Macedonia,man
+Kenshô Ono,36.0, Japan,man
+Philippe Noiret,76.0, Nord,man
+R. Lee Ermey,74.0, Kansas,man
+Yukiko Shimazaki,83.0, Japan,man
+Tigmanshu Dhulia,58.0, Uttar Pradesh,man
+Tatsuya Gashûin,75.0, Japan,man
+Caleb Landry Jones,36.0, Texas,man
+Carrie-Anne Moss,58.0, British Columbia,man
+Virginia Cherrill,88.0, Illinois,man
+Jinpachi Nezu,69.0, Japan,man
+Rumi Hiiragi,38.0, Japan,man
+Anthony Perkins,60.0, New York,man
+Lembit Ulfsak,70.0, Estonian SSR,man
+Mackenzie Foy,25.0, California,man
+James Caan,82.0, New York,man
+Miles Teller,38.0, Pennsylvania,man
+Mohit Raina,43.0, India,man
+Jessica Chastain,48.0, California,man
+Henry Bergman,78.0, California,man
+Paulette Goddard,80.0, Long Island,man
+Edward Burns,57.0, New York,man
+Tim Holt,54.0, Los Angeles,man
+Jim Carrey,63.0, Ontario,man
+Gary Lockwood,88.0, California,man
+Donald O'Connor,78.0, Illinois,man
+Annette Bening,67.0, Kansas,man
+Kangana Ranaut,38.0, Himachal Pradesh,man
+Jyoti Malshe,38.0,Unknown,man
+Jack Nicholson,88.0, New Jersey,man
+Benjamin Bratt,0.0, California,man
+Herbert Grönemeyer,69.0, Lower Saxony,man
+Elliot Page,38.0, Nova Scotia,man
+Sam Rockwell,57.0, California,man
+Peter Brocco,89.0, Pennsylvania,man
+Jonah Hill,42.0, California,man
+Eijirô Tôno,87.0, Japan,man
+Giustino Durano,79.0, Puglia,man
+Radhika Apte,40.0, Tamil Nadu,man
+Jason Schwartzman,45.0, California,man
+Marilyn Monroe,36.0, California,man
+Erdem Can,0.0,Unknown,man
+Nancy Olson,97.0, Wisconsin,man
+Paul Henreid,84.0, Austria-Hungary [now Trieste,man
+Alison Doody,59.0, Ireland,man
+Robin Wright,59.0, Texas,man
+Aras Bulut Iynemli,35.0, Turkey,man
+Kathryn McGuire,75.0, Illinois,man
+Janine Darcey,76.0, Seine [now Asnières-sur-Seine,man
+Sermin Hürmeriç,78.0, Turkey,man
+Annika Wedderkopp,21.0, Sjælland,man
+Gary Sinise,70.0, Illinois,man
+Carrie Fisher,60.0, California,man
+Orlando Bloom,48.0, Kent,man
+Harry Myers,56.0,Unknown,man
+Ismail Hacioglu,40.0, Turkey,man
+Ronit Roy,60.0, Maharashtra,man
+William Sylvester,73.0, California,man
+Kyôko Kagawa,94.0, Japan,man
+Martin Stringer,0.0,Unknown,man
+Boluwatife Treasure Bankole,0.0,Unknown,man
+Richa Chadha,39.0, India,man
+Ciarán Hinds,72.0, Northern Ireland,man
+Heath Ledger,29.0, Western Australia,man
+Martina Gedeck,64.0, Bavaria,man
+Matthew McConaughey,56.0, Texas,man
+Malcolm McDowell,82.0, Yorkshire,man
+Edna Purviance,63.0, Nevada,man
+Lin-Manuel Miranda,45.0, New York,man
+Tatsuya Nakadai,93.0, Japan,man
+Yash,0.0, India,man
+Peter Ramsey,0.0, California,man
+Bob Peterson,64.0, Ohio,man
+Bibi Andersson,84.0, Stockholm,man
+Maxim Gaudette,51.0, Quebec,man
+Sagarika Ghatge,39.0, Maharashtra,man
+Stephen Baldwin,59.0, Long Island,man
+Thomas Kretschmann,63.0, German Democratic Republic [now Saxony-Anhalt,man
+Rajesh Khanna,70.0, Punjab,man
+Anushka Shetty,0.0, Karnataka,man
+Sanya Malhotra,33.0, India,man
+Chazz Palminteri,73.0, New York,man
+Maribel Verdú,55.0, Spain,man
+Karisma Kapoor,51.0, Maharashtra,man
+Michael Biehn,69.0, Alabama,man
+Val Kilmer,66.0, California,man
+Robert Duvall,94.0, California,man
+Louise Fletcher,88.0, Alabama,man
+Charles Bronson,82.0, Pennsylvania,man
+Meena,49.0, California,man
+Aoi Yûki,33.0, Japan,man
+Lilly Wachowski,58.0, Illinois,man
+Sebastian Koch,63.0, Baden-Württemberg,man
+Lee J. Cobb,65.0, New York,man
+John Rhys-Davies,81.0, Wales,man
+Warren Clarke,67.0, Lancashire,man
+Kátia Lund,59.0, São Paulo,man
+John Ratzenberger,78.0, Connecticut,man
+Mona Singh,0.0, India,man
+Buster Keaton,71.0, Kansas,man
+John Megna,43.0, New York,man
+Sushant Singh Rajput,0.0, Bihar,man
+Sterling Hayden,70.0, New Jersey,man
+Joaquin Phoenix,51.0, Puerto Rico,man
+Stellan Skarsgård,0.0, Västra Götalands län,man
+Shraddha Kapoor,38.0, Maharashtra,man
+Chieko Higashiyama,90.0, Japan,man
+James Woods,78.0, Utah,man
+Rob Minkoff,63.0, California,man
+Patrick McGoohan,81.0, Queens,man
+Dexter Fletcher,59.0, England,man
+Manjot Singh,0.0, India,man
+Kevin Spacey,66.0, New Jersey,man
+Jared Leto,54.0, Louisiana,man
+Amir Farrokh Hashemian,0.0,Unknown,man
+Tom Hardy,48.0, London,man
+Zazie Beetz,34.0, Berlin,man
+Frances McDormand,68.0, Illinois,man
+Gene Kelly,84.0, Pennsylvania,man
+Nafise Jafar-Mohammadi,0.0,Unknown,man
+Paul Freeman,82.0, Hertfordshire,man
+Woody Harrelson,64.0, Texas,man
+Diane Kruger,49.0, Lower Saxony,man
+Irrfan Khan,53.0, Rajasthan,man
+Robert Shaw,51.0, Lancashire,man
+Cathy Moriarty,65.0, New York,man
+James Garner,86.0, Oklahoma,man
+Emily Mortimer,54.0, London,man
+John Hurt,77.0, Derbyshire,man
+Tetsurô Tanba,84.0, Japan,man
+Nick Nolte,84.0, Nebraska,man
+George Macready,74.0, Rhode Island,man
+Yûko Tanaka,70.0, Japan,man
+Keanu Reeves,61.0, Lebanon,man
+Tim Robbins,67.0, California,man
+Vera Miles,96.0, Oklahoma,man
+James Stewart,89.0, Pennsylvania,man
+Martin Sheen,85.0, Ohio,man
+Alan Rickman,70.0, London,man
+Nicoletta Braschi,65.0, Emilia-Romagna,man
+Pawan Malhotra,67.0, India,man
+Denholm Elliott,70.0, London,man
+Tamannaah Bhatia,36.0, Maharashtra,man
+Martin Balsam,77.0, New York City,man
+Michael Ansara,91.0,Unknown,man
+Enzo Cannavale,83.0, Campania,man
+Mara Krupp,90.0,Unknown,man
+Paul Reiser,69.0, New York,man
+Daveigh Chase,35.0, Nevada,man
+Marlene Dietrich,91.0, Brandenburg,man
+Ryûnosuke Kamiki,0.0, Japan,man
+Shilpa Shukla,43.0, Bihar,man
+George Raft,79.0, New York,man
+Robert Manuel,79.0, France,man
+James Earl Jones,93.0, Mississippi,man
+Kirk Douglas,104.0, New York,man
+Claude Rains,78.0, London,man
+Vicky Kaushal,37.0, Maharashtra,man
+Matheus Nachtergaele,56.0, São Paulo,man
+Oliver Reed,61.0, London,man
+Christoph Waltz,69.0, Austria,man
+Tim Allen,72.0, Colorado,man
+Thomas Mitchell,70.0, New Jersey,man
+Adèle Haenel,36.0, France,man
+Saori Hayami,34.0, Japan,man
+Humphrey Bogart,58.0, New York,man
+Joe Russo,0.0, Ohio,man
+Tabu,55.0, Andhra Pradesh,man
+Rani Mukerji,47.0, West Bengal,man
+Yôji Matsuda,58.0, Japan,man
+Shirley MacLaine,91.0, Virginia,man
+Jennifer Lien,51.0, Illinois,man
+Ulrich Tukur,68.0, Hesse,man
+Michael Clarke Duncan,55.0, Illinois,man
+Amjad Khan,52.0, Hyderabad State,man
+Kawsar Al Haddad,0.0,Unknown,man
+Liam Neeson,73.0, Co. Antrim,man
+Andrew Kevin Walker,61.0, Pennsylvania,man
+Fatima Sana Shaikh,33.0, Andhra Pradesh,man
+Audrey Tautou,49.0, Puy-de-Dôme,man
+Anne Baxter,62.0, Indiana,man
+Shima Iwashita,84.0, Japan,man
+Mélissa Désormeaux-Poulin,44.0, Québec,man
+Bob Gunton,80.0, California,man
+Bonnie Hunt,64.0, Illinois,man
+Laurence Fishburne,64.0, Georgia,man
+Akira Ishihama,87.0, Japan,man
+Rupert Graves,62.0, Somerset,man
+Frances Conroy,72.0, Georgia,man
+Gloria Swanson,84.0, Illinois,man
+Ian McKellen,86.0, Lancashire,man
+Kishori Ballal,0.0,Unknown,man
+Joel Edgerton,51.0, New South Wales,man
+Marlon Wayans,53.0, New York,man
+Tiny Sandford,67.0, Iowa,man
+Kim Basinger,72.0, Georgia,man
+John Fiedler,80.0, Wisconsin,man
+Adolphe Menjou,73.0, Pennsylvania,man
+Daniel Day-Lewis,68.0, London,man
+Johnny Sekka,72.0, Senegal,man
+Aleksandr Kaydanovskiy,49.0, Rostovskaya oblast,man
+Tom Skerritt,92.0, Michigan,man
+Srinidhi Shetty,33.0, Karnataka,man
+William Sadler,75.0, New York,man
+Danny Aiello,86.0, New York City,man
+Alexandra Maria Lara,47.0, Romania,man
+Kang Hye-jeong,43.0,Unknown,man
+Michelle Pfeiffer,67.0, California,man
+Treat Williams,72.0, Connecticut,man
+Jack Hawkins,63.0, London,man
+Jordan Nagai,25.0, California,man
+Burt Lancaster,81.0, New York,man
+Cho Yeo-jeong,44.0,Unknown,man
+Antonella Attili,62.0, Lazio,man
+Marlon Brando,80.0, Nebraska,man
+Bette Davis,81.0, Massachusetts,man
+Ray Walston,87.0, Mississippi,man
+Shameik Moore,30.0, Georgia,man
+Mohanlal,65.0, Kerala,man
+Brigitte Helm,90.0, Germany,man
+Lea Thompson,64.0, Minnesota,man
+Ramesh Deo,93.0, Bombay Presidency,man
+Masayuki Mori,62.0, Hokkaido,man
+Keenan Wynn,70.0, New York,man
+Mone Kamishiraishi,27.0, Japan,man
+Yordanos Shiferaw,0.0,Unknown,man
+Mustafa Kamel,0.0,Unknown,man
+Graham Chapman,48.0, Leicestershire,man
+Edward Norton,56.0, Massachusetts,man
+Vincent D'Onofrio,66.0,USA,man
+Sohum Shah,42.0,India,man
+Felix Bressart,57.0,Russia],man
+Yoo Ji-Tae,0.0,South Korea,man
+James Mason,75.0,UK,man
+Elizabeth McGovern,64.0,USA,man
+Stephen Rea,79.0,UK,man
+Paresh Rawal,70.0,India,man
+Sanjeev Kumar,47.0,British India,man
+Elissa Knight,50.0,USA,man
+Setsuko Hara,95.0,Japan,man
+Soha Ali Khan,47.0,India,man
+Jack Benny,80.0,USA,man
+Jose Coronado,68.0,Spain,man
+Aleksey Kravchenko,56.0,USSR [now Russia],man
+Edward Furlong,48.0,USA,man
+Manoj Bajpayee,56.0,India,man
+Matthew Broderick,63.0,USA,man
+Kim Novak,92.0,USA,man
+Yoshiko Shinohara,,unknown,man
+Jason Robards,78.0,USA,man
+Sophie Marceau,59.0,France,man
+Shah Rukh Khan,60.0,India,man
+Gene Hackman,95.0,USA,man
+Anand Gandhi,45.0,India,man
+Ricardo Darín,68.0,Argentina,man
+Chishû Ryû,89.0,Japan,man
+Ralph Meeker,68.0,USA,man
+Keir Dullea,89.0,USA,man
+Hugh Jackman,57.0,Australia,man
+Farhan Akhtar,51.0,India,man
+Don Rickles,91.0,USA,man
+Charles Laughton,63.0,UK,man
+Lisa Haydon,39.0,India,man
+Henry Fonda,77.0,USA,man
+Giorgio Cantarini,33.0,Italy,man
+Elijah Wood,44.0,USA,man
+Joe Pantoliano,74.0,USA,man
+Peter Lorre,60.0,Slovakia],man
+Roy Dotrice,94.0,UK,man
+Carla Quevedo,,Argentina,man
+Payman Maadi,55.0,USA,man
+Tom Hulce,72.0,USA,man
+Elizabeth Berridge,63.0,USA,man
+Erwin Connelly,53.0,USA,man
+Edward G. Robinson,80.0,Kingdom of Romania [now Romania],man
+Zain Al Rafeea,21.0,Syria,man
+Rajat Barmecha,36.0,India,man
+Noémie Merlant,37.0,France,man
+Christian Bale,51.0,UK,man
+Ugur Yücel,68.0,Turkey,man
+Amole Gupte,63.0,India,man
+Keiko Tsushima,86.0,Japan,man
+Juliane Köhler,60.0,Germany,man
+Adesh Prasad,,unknown,man
+Christopher Plummer,92.0,Canada,man
+Viggo Mortensen,67.0,USA,man
+Sharman Joshi,51.0,India,man
+Rashida Jones,49.0,USA,man
+Renée Elise Goldsberry,54.0,USA,man
+Shelley Duvall,75.0,USA,man
+Taapsee Pannu,38.0,India,man
+Al Pacino,85.0,USA,man
+Cybill Shepherd,75.0,USA,man
+Carl Möhner,84.0,Austria,man
+Deniz Baysal,34.0,Turkey,man
+Ayushmann Khurrana,41.0,India,man
+Ariadna Gil,56.0,Spain,man
+Ed Harris,75.0,USA,man
+Rodney Rothman,,unknown,man
+Tim Roth,64.0,UK,man
+Donna Reed,65.0,USA,man
+Liubomiras Laucevicius,75.0,USSR,man
+Anthony Gonzalez,,USA,man
+Elmo Nüganen,63.0,USSR [now Estonia],man
+Sean Bean,66.0,UK,man
+Alfred Abel,58.0,Germany,man
+Jake Johnson,28.0,USA,man
+Tom Murray,62.0,USA,man
+Luàna Bajrami,24.0,Kosovo,man
+Ana Wagener,63.0,Spain,man
+Ryô Narita,0.0,Japan,man
+Kirti Kulhari,40.0,India,man
+Aldo Giuffrè,86.0,Italy,man
+Yutaka Sada,106.0,Japan,man
+Dharmendra,90.0,British India,man
+Zach Grenier,,USA,man
+Raveena Tandon,54.0,India,man
+Bruce Willis,70.0,West Germany,man
+Hugo Weaving,65.0,Nigeria,man
+Tyrone Power,44.0,USA,man
+Jennifer Connelly,55.0,USA,man
+Chris Penn,41.0,USA,man
+Kim Byeong-Ok,65.0,South Korea,man
+Jodie Foster,63.0,USA,man
+Ben Kingsley,82.0,UK,man
+Otto Wernicke,72.0,Germany,man
+Haruo Tanaka,80.0,Japan,man
+Spencer Tracy,67.0,USA,man
+Miyu Irino,37.0,Japan,man
+Thomas Bo Larsen,62.0,Denmark,man
+Eli Roth,,USA,man
+Lasse Fogelstrøm,29.0,Denmark,man
+Lee Van Cleef,64.0,USA,man
+Janet Leigh,77.0,USA,man
+Linda Hamilton,69.0,USA,man
+Nick Moran,56.0,UK,man
+Joe Pesci,82.0,USA,man
+Lamberto Maggiorani,74.0,Italy,man
+Ulrich Matthes,66.0,West Germany,man
+Archana Jois,31.0,India,man
+Alexandre Rodrigues,,Brazil,man
+Daisuke Ryû,64.0,Japan,man
+Linda Cardellini,50.0,USA,man
+Carl Miller,85.0,USA,man
+George Sanders,66.0,Russian Empire [now Russia],man
+Victor Sjöström,81.0,Sweden,man
+Michael Madsen,68.0,USA,man
+Sally Field,79.0,USA,man
+John Travolta,71.0,USA,man
+Gael García Bernal,47.0,Mexico,man
+Ned Beatty,84.0,USA,man
+Robert Patrick,67.0,USA,man
+Misha Meskhi,,unknown,man
+Walter Huston,66.0,Canada,man
+Michael Caine,92.0,UK,man
+Christopher Lloyd,87.0,USA,man
+Anil Dhawan,78.0,India,man
+Billy Dee Williams,88.0,USA,man
+Tom Wilkinson,75.0,UK,man
+Lianella Carell,73.0,Italy,man
+Moon So-Ri,,Korea,man
+Asha Sharath,50.0,India,man
+Vijay Sethupathi,47.0,India,man
+Richard Widmark,94.0,USA,man
+Fikret Kuskan,60.0,Turkey,man
+Alisa Freyndlikh,91.0,Russia],man
+Sonam Kapoor,,India,man
+Akira Terao,78.0,Japan,man
+Michael Bates,58.0,British India,man
+Gustav Fröhlich,85.0,Germany,man
+Valeria Golino,60.0,Italy,man
+Eli Wallach,99.0,USA,man
+Nawazuddin Siddiqui,51.0,India,man
+Matthew Modine,66.0,USA,man
+Sean Connery,90.0,UK,man
+Fred Willard,87.0,USA,man
+Sebastian Maniscalco,,USA,man
+J.K. Simmons,70.0,USA,man
+Aamir Khan,60.0,India,man
+Jamie Foxx,58.0,USA,man
+Edward Asner,92.0,USA,man
+Frank Finlay,90.0,UK,man
+Olga Mironova,,unknown,man
+Bruce Bennett,101.0,USA,man
+Jeffrey Ho,,unknown,man
+Arnold Schwarzenegger,78.0,Austria,man
+Sumita Sanyal,72.0,British India,man
+Ray Milland,79.0,UK,man
+Charles Chaplin,88.0,UK,man
+Yôko Tsukasa,91.0,Japan,man
+Robert Downey Jr.,60.0,USA,man
+Guy Pearce,58.0,UK,man
+Scatman Crothers,76.0,USA,man
+Jack Oakie,75.0,USA,man
+Carrie Henn,49.0,USA,man
+Andrea Tariang,,unknown,man
+Shin'ichi Himori,52.0,Japan,man
+Frank Vincent,80.0,USA,man
+Billy Crudup,57.0,USA,man
+Gregory Peck,87.0,USA,man

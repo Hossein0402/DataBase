@@ -1,0 +1,201 @@
+title,year,rating,genre,director
+The Shawshank Redemption,1994,80.0,Drama,Frank Darabont
+The Godfather,1972,100.0,"Crime, Drama",Francis Ford Coppola
+The Dark Knight,2008,84.0,"Action, Crime, Drama",Christopher Nolan
+The Godfather: Part II,1974,90.0,"Crime, Drama",Francis Ford Coppola
+12 Angry Men,1957,96.0,"Crime, Drama",Sidney Lumet
+The Lord of the Rings: The Return of the King,2003,94.0,"Action, Adventure, Drama",Peter Jackson
+Pulp Fiction,1994,94.0,"Crime, Drama",Quentin Tarantino
+Schindler's List,1993,94.0,"Biography, Drama, History",Steven Spielberg
+Inception,2010,74.0,"Action, Adventure, Sci-Fi",Christopher Nolan
+Fight Club,1999,66.0,Drama,David Fincher
+The Lord of the Rings: The Fellowship of the Ring,2001,92.0,"Action, Adventure, Drama",Peter Jackson
+Forrest Gump,1994,82.0,"Drama, Romance",Robert Zemeckis
+"Il buono, il brutto, il cattivo",1966,90.0,Western,Sergio Leone
+The Lord of the Rings: The Two Towers,2002,87.0,"Action, Adventure, Drama",Peter Jackson
+The Matrix,1999,73.0,"Action, Sci-Fi",Lana Wachowski
+Goodfellas,1990,90.0,"Biography, Crime, Drama",Martin Scorsese
+Star Wars: Episode V - The Empire Strikes Back,1980,82.0,"Action, Adventure, Fantasy",Irvin Kershner
+One Flew Over the Cuckoo's Nest,1975,83.0,Drama,Milos Forman
+Hamilton,2020,90.0,"Biography, Drama, History",Thomas Kail
+Gisaengchung,2019,96.0,"Comedy, Drama, Thriller",Bong Joon Ho
+Soorarai Pottru,2020,,Drama,Sudha Kongara
+Interstellar,2014,74.0,"Adventure, Drama, Sci-Fi",Christopher Nolan
+Cidade de Deus,2002,79.0,"Crime, Drama",Fernando Meirelles
+Sen to Chihiro no kamikakushi,2001,96.0,"Animation, Adventure, Family",Hayao Miyazaki
+Saving Private Ryan,1998,91.0,"Drama, War",Steven Spielberg
+The Green Mile,1999,61.0,"Crime, Drama, Fantasy",Frank Darabont
+La vita è bella,1997,59.0,"Comedy, Drama, Romance",Roberto Benigni
+Se7en,1995,65.0,"Crime, Drama, Mystery",David Fincher
+The Silence of the Lambs,1991,85.0,"Crime, Drama, Thriller",Jonathan Demme
+Star Wars,1977,90.0,"Action, Adventure, Fantasy",George Lucas
+Seppuku,1962,85.0,"Action, Drama, Mystery",Masaki Kobayashi
+Shichinin no samurai,1954,98.0,"Action, Adventure, Drama",Akira Kurosawa
+It's a Wonderful Life,1946,89.0,"Drama, Family, Fantasy",Frank Capra
+Joker,2019,59.0,"Crime, Drama, Thriller",Todd Phillips
+Whiplash,2014,88.0,"Drama, Music",Damien Chazelle
+The Intouchables,2011,57.0,"Biography, Comedy, Drama",Olivier Nakache
+The Prestige,2006,66.0,"Drama, Mystery, Sci-Fi",Christopher Nolan
+The Departed,2006,85.0,"Crime, Drama, Thriller",Martin Scorsese
+The Pianist,2002,85.0,"Biography, Drama, Music",Roman Polanski
+Gladiator,2000,67.0,"Action, Adventure, Drama",Ridley Scott
+American History X,1998,62.0,Drama,Tony Kaye
+The Usual Suspects,1995,77.0,"Crime, Mystery, Thriller",Bryan Singer
+Léon,1994,64.0,"Action, Crime, Drama",Luc Besson
+The Lion King,1994,88.0,"Animation, Adventure, Drama",Roger Allers
+Terminator 2: Judgment Day,1991,75.0,"Action, Sci-Fi",James Cameron
+Nuovo Cinema Paradiso,1988,80.0,"Drama, Romance",Giuseppe Tornatore
+Hotaru no haka,1988,94.0,"Animation, Drama, War",Isao Takahata
+Back to the Future,1985,87.0,"Adventure, Comedy, Sci-Fi",Robert Zemeckis
+Once Upon a Time in the West,1968,80.0,Western,Sergio Leone
+Psycho,1960,97.0,"Horror, Mystery, Thriller",Alfred Hitchcock
+Casablanca,1942,100.0,"Drama, Romance, War",Michael Curtiz
+Modern Times,1936,96.0,"Comedy, Drama, Family",Charles Chaplin
+City Lights,1931,99.0,"Comedy, Drama, Romance",Charles Chaplin
+Capharnaüm,2018,75.0,Drama,Nadine Labaki
+Ayla: The Daughter of War,2017,,"Biography, Drama, History",Can Ulkay
+Vikram Vedha,2017,,"Action, Crime, Drama",Gayatri
+Kimi no na wa.,2016,79.0,"Animation, Drama, Fantasy",Makoto Shinkai
+Dangal,2016,,"Action, Biography, Drama",Nitesh Tiwari
+Spider-Man: Into the Spider-Verse,2018,87.0,"Animation, Action, Adventure",Bob Persichetti
+Avengers: Endgame,2019,78.0,"Action, Adventure, Drama",Anthony Russo
+Avengers: Infinity War,2018,68.0,"Action, Adventure, Sci-Fi",Anthony Russo
+Coco,2017,81.0,"Animation, Adventure, Family",Lee Unkrich
+Django Unchained,2012,81.0,"Drama, Western",Quentin Tarantino
+The Dark Knight Rises,2012,78.0,"Action, Adventure",Christopher Nolan
+3 Idiots,2009,67.0,"Comedy, Drama",Rajkumar Hirani
+Taare Zameen Par,2007,,"Drama, Family",Aamir Khan
+WALL·E,2008,95.0,"Animation, Adventure, Family",Andrew Stanton
+The Lives of Others,2006,89.0,"Drama, Mystery, Thriller",Florian Henckel von Donnersmarck
+Oldeuboi,2003,77.0,"Action, Drama, Mystery",Chan-wook Park
+Memento,2000,80.0,"Mystery, Thriller",Christopher Nolan
+Mononoke-hime,1997,76.0,"Animation, Action, Adventure",Hayao Miyazaki
+Once Upon a Time in America,1984,,"Crime, Drama",Sergio Leone
+Raiders of the Lost Ark,1981,85.0,"Action, Adventure",Steven Spielberg
+The Shining,1980,66.0,"Drama, Horror",Stanley Kubrick
+Apocalypse Now,1979,94.0,"Drama, Mystery, War",Francis Ford Coppola
+Alien,1979,89.0,"Horror, Sci-Fi",Ridley Scott
+Anand,1971,,"Drama, Musical",Hrishikesh Mukherjee
+Tengoku to jigoku,1963,,"Crime, Drama, Mystery",Akira Kurosawa
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,97.0,Comedy,Stanley Kubrick
+Witness for the Prosecution,1957,,"Crime, Drama, Mystery",Billy Wilder
+Paths of Glory,1957,90.0,"Drama, War",Stanley Kubrick
+Rear Window,1954,100.0,"Mystery, Thriller",Alfred Hitchcock
+Sunset Blvd.,1950,,"Drama, Film-Noir",Billy Wilder
+The Great Dictator,1940,,"Comedy, Drama, War",Charles Chaplin
+1917,2019,78.0,"Drama, Thriller, War",Sam Mendes
+Tumbbad,2018,,"Drama, Fantasy, Horror",Rahi Anil Barve
+Andhadhun,2018,,"Crime, Drama, Music",Sriram Raghavan
+Drishyam,2013,,"Crime, Drama, Thriller",Jeethu Joseph
+Jagten,2012,77.0,Drama,Thomas Vinterberg
+Jodaeiye Nader az Simin,2011,95.0,Drama,Asghar Farhadi
+Incendies,2010,80.0,"Drama, Mystery, War",Denis Villeneuve
+Miracle in cell NO.7,2019,,Drama,Mehmet Ada Öztekin
+Babam ve Oglum,2005,,"Drama, Family",Çagan Irmak
+Inglourious Basterds,2009,69.0,"Adventure, Drama, War",Quentin Tarantino
+Eternal Sunshine of the Spotless Mind,2004,89.0,"Drama, Romance, Sci-Fi",Michel Gondry
+Amélie,2001,69.0,"Comedy, Romance",Jean-Pierre Jeunet
+Snatch,2000,55.0,"Comedy, Crime",Guy Ritchie
+Requiem for a Dream,2000,68.0,Drama,Darren Aronofsky
+American Beauty,1999,84.0,Drama,Sam Mendes
+Good Will Hunting,1997,70.0,"Drama, Romance",Gus Van Sant
+Bacheha-Ye aseman,1997,77.0,"Drama, Family, Sport",Majid Majidi
+Toy Story,1995,95.0,"Animation, Adventure, Comedy",John Lasseter
+Braveheart,1995,68.0,"Biography, Drama, History",Mel Gibson
+Reservoir Dogs,1992,79.0,"Crime, Drama, Thriller",Quentin Tarantino
+Full Metal Jacket,1987,76.0,"Drama, War",Stanley Kubrick
+Idi i smotri,1985,,"Drama, Thriller, War",Elem Klimov
+Aliens,1986,84.0,"Action, Adventure, Sci-Fi",James Cameron
+Amadeus,1984,88.0,"Biography, Drama, History",Milos Forman
+Scarface,1983,65.0,"Crime, Drama",Brian De Palma
+Star Wars: Episode VI - Return of the Jedi,1983,58.0,"Action, Adventure, Fantasy",Richard Marquand
+Das Boot,1981,86.0,"Adventure, Drama, Thriller",Wolfgang Petersen
+Taxi Driver,1976,94.0,"Crime, Drama",Martin Scorsese
+The Sting,1973,83.0,"Comedy, Crime, Drama",George Roy Hill
+A Clockwork Orange,1971,77.0,"Crime, Drama, Sci-Fi",Stanley Kubrick
+2001: A Space Odyssey,1968,84.0,"Adventure, Sci-Fi",Stanley Kubrick
+Per qualche dollaro in più,1965,74.0,Western,Sergio Leone
+Lawrence of Arabia,1962,100.0,"Adventure, Biography, Drama",David Lean
+The Apartment,1960,94.0,"Comedy, Drama, Romance",Billy Wilder
+North by Northwest,1959,98.0,"Adventure, Mystery, Thriller",Alfred Hitchcock
+Vertigo,1958,100.0,"Mystery, Romance, Thriller",Alfred Hitchcock
+Singin' in the Rain,1952,99.0,"Comedy, Musical, Romance",Stanley Donen
+Ikiru,1952,,Drama,Akira Kurosawa
+Ladri di biciclette,1948,,Drama,Vittorio De Sica
+Double Indemnity,1944,95.0,"Crime, Drama, Film-Noir",Billy Wilder
+Citizen Kane,1941,100.0,"Drama, Mystery",Orson Welles
+M - Eine Stadt sucht einen Mörder,1931,,"Crime, Mystery, Thriller",Fritz Lang
+Metropolis,1927,98.0,"Drama, Sci-Fi",Fritz Lang
+The Kid,1921,,"Comedy, Drama, Family",Charles Chaplin
+Chhichhore,2019,,"Comedy, Drama",Nitesh Tiwari
+Uri: The Surgical Strike,2018,,"Action, Drama, War",Aditya Dhar
+K.G.F: Chapter 1,2018,,"Action, Drama",Prashanth Neel
+Green Book,2018,69.0,"Biography, Comedy, Drama",Peter Farrelly
+"Three Billboards Outside Ebbing, Missouri",2017,88.0,"Comedy, Crime, Drama",Martin McDonagh
+Talvar,2015,,"Crime, Drama, Mystery",Meghna Gulzar
+Baahubali 2: The Conclusion,2017,,"Action, Drama",S.S. Rajamouli
+Klaus,2019,65.0,"Animation, Adventure, Comedy",Sergio Pablos
+Drishyam,2015,,"Crime, Drama, Mystery",Nishikant Kamat
+Queen,2013,,"Adventure, Comedy, Drama",Vikas Bahl
+Mandariinid,2013,73.0,"Drama, War",Zaza Urushadze
+Bhaag Milkha Bhaag,2013,,"Biography, Drama, Sport",Rakeysh Omprakash Mehra
+Gangs of Wasseypur,2012,89.0,"Action, Comedy, Crime",Anurag Kashyap
+Udaan,2010,,Drama,Vikramaditya Motwane
+Paan Singh Tomar,2012,,"Action, Biography, Crime",Tigmanshu Dhulia
+El secreto de sus ojos,2009,80.0,"Drama, Mystery, Romance",Juan José Campanella
+Warrior,2011,71.0,"Action, Drama, Sport",Gavin O'Connor
+Shutter Island,2010,63.0,"Mystery, Thriller",Martin Scorsese
+Up,2009,88.0,"Animation, Adventure, Comedy",Pete Docter
+The Wolf of Wall Street,2013,75.0,"Biography, Crime, Drama",Martin Scorsese
+Chak De! India,2007,68.0,"Drama, Family, Sport",Shimit Amin
+There Will Be Blood,2007,93.0,Drama,Paul Thomas Anderson
+Pan's Labyrinth,2006,98.0,"Drama, Fantasy, War",Guillermo del Toro
+Toy Story 3,2010,92.0,"Animation, Adventure, Comedy",Lee Unkrich
+V for Vendetta,2005,62.0,"Action, Drama, Sci-Fi",James McTeigue
+Rang De Basanti,2006,,"Comedy, Crime, Drama",Rakeysh Omprakash Mehra
+Black,2005,,Drama,Sanjay Leela Bhansali
+Batman Begins,2005,70.0,"Action, Adventure",Christopher Nolan
+"Swades: We, the People",2004,,Drama,Ashutosh Gowariker
+Der Untergang,2004,82.0,"Biography, Drama, History",Oliver Hirschbiegel
+Hauru no ugoku shiro,2004,80.0,"Animation, Adventure, Family",Hayao Miyazaki
+A Beautiful Mind,2001,72.0,"Biography, Drama",Ron Howard
+Hera Pheri,2000,,"Action, Comedy, Crime",Priyadarshan
+"Lock, Stock and Two Smoking Barrels",1998,66.0,"Action, Comedy, Crime",Guy Ritchie
+L.A. Confidential,1997,90.0,"Crime, Drama, Mystery",Curtis Hanson
+Eskiya,1996,,"Crime, Drama, Thriller",Yavuz Turgul
+Heat,1995,76.0,"Crime, Drama, Thriller",Michael Mann
+Casino,1995,73.0,"Crime, Drama",Martin Scorsese
+Andaz Apna Apna,1994,,"Action, Comedy, Romance",Rajkumar Santoshi
+Unforgiven,1992,85.0,"Drama, Western",Clint Eastwood
+Indiana Jones and the Last Crusade,1989,65.0,"Action, Adventure",Steven Spielberg
+Dom za vesanje,1988,,"Comedy, Crime, Drama",Emir Kusturica
+Tonari no Totoro,1988,86.0,"Animation, Family, Fantasy",Hayao Miyazaki
+Die Hard,1988,72.0,"Action, Thriller",John McTiernan
+Ran,1985,96.0,"Action, Drama, War",Akira Kurosawa
+Raging Bull,1980,89.0,"Biography, Drama, Sport",Martin Scorsese
+Stalker,1979,,"Drama, Sci-Fi",Andrei Tarkovsky
+Höstsonaten,1978,,"Drama, Music",Ingmar Bergman
+The Message,1976,,"Biography, Drama, History",Moustapha Akkad
+Sholay,1975,,"Action, Adventure, Comedy",Ramesh Sippy
+Monty Python and the Holy Grail,1975,91.0,"Adventure, Comedy, Fantasy",Terry Gilliam
+The Great Escape,1963,86.0,"Adventure, Drama, History",John Sturges
+To Kill a Mockingbird,1962,88.0,"Crime, Drama",Robert Mulligan
+Yôjinbô,1961,,"Action, Drama, Thriller",Akira Kurosawa
+Judgment at Nuremberg,1961,60.0,"Drama, War",Stanley Kramer
+Some Like It Hot,1959,98.0,"Comedy, Music, Romance",Billy Wilder
+Smultronstället,1957,88.0,"Drama, Romance",Ingmar Bergman
+Det sjunde inseglet,1957,88.0,"Drama, Fantasy, History",Ingmar Bergman
+Du rififi chez les hommes,1955,97.0,"Crime, Drama, Thriller",Jules Dassin
+Dial M for Murder,1954,75.0,"Crime, Thriller",Alfred Hitchcock
+Tôkyô monogatari,1953,,Drama,Yasujirô Ozu
+Rashômon,1950,98.0,"Crime, Drama, Mystery",Akira Kurosawa
+All About Eve,1950,98.0,Drama,Joseph L. Mankiewicz
+The Treasure of the Sierra Madre,1948,98.0,"Adventure, Drama, Western",John Huston
+To Be or Not to Be,1942,86.0,"Comedy, War",Ernst Lubitsch
+The Gold Rush,1925,,"Adventure, Comedy, Drama",Charles Chaplin
+Sherlock Jr.,1924,,"Action, Comedy, Romance",Buster Keaton
+Portrait de la jeune fille en feu,2019,95.0,"Drama, Romance",Céline Sciamma
+Pink,2016,,"Drama, Thriller",Aniruddha Roy Chowdhury
+Koe no katachi,2016,78.0,"Animation, Drama, Family",Naoko Yamada
+Contratiempo,2016,,"Crime, Drama, Mystery",Oriol Paulo
+Ah-ga-ssi,2016,84.0,"Drama, Romance, Thriller",Chan-wook Park
