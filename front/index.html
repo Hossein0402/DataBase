@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MovieVerse</title>
+    <link rel="stylesheet" href="st.css">
+    <script defer src="s.js"></script>
+    
+    
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">MovieVerse</div>
+        <div class="theme-toggle">
+            <button id="themeSwitch">🌙</button>
+        </div>
+    </nav>
+
+
+
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h2>Genres</h2>
+            <ul id="genreList">
+                <li data-genre="Action">Action</li>
+                <li data-genre="Adventure">Adventure</li>
+                <li data-genre="Animation">Animation</li>
+                <li data-genre="Comedy">Comedy</li>
+                <li data-genre="Crime">Crime</li>
+                <li data-genre="Documentary">Documentary</li>
+                <li data-genre="Drama">Drama</li>
+                <li data-genre="Family">Family</li>
+            </ul>
+        </aside>
+        
+
+        <!--Main Content-->
+        <main class="main-content">
+            <header class="header">
+                
+                <div class="search-bar">
+                    <input type="text" placeholder="Search movies or actors..." id="searchInput">
+                    <button id="searchMovieButton">Search Movie🔍</button>
+                    <button id="searchActorButton">Search Actor🔍</button>
+                </div>
+                
+                
+            </header>
+
+            <div id="searchResults" class="movie-grid">
+            </div>
+        </main> 
+        <script src="s.js"></script>
+    </div> 
+
+</body>
+</html>
