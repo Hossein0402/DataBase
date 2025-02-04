@@ -25,16 +25,13 @@ import java.util.List;
 @RequestMapping("/imdb")
 @RequiredArgsConstructor
 public class Controller {
-    // Define the file name you want to use
     private static final String FILE_NAME = "movies.json";
-    // Define the directory where you want to save the file
     private static final String DIRECTORY_PATH = "C:\\Users\\dd\\Desktop\\IMDB\\database-exmaple\\front";
 
     private static final Logger log = LoggerFactory.getLogger(Controller.class);
     private final ActorRepository actorRepository;
     private final MovieRepository movieRepository;
     private final ImageProcessor imageProcessor;
-    private final ObjectMapper objectMapper;
     private final Mapper mapper;
 
     @GetMapping("/actors")
@@ -48,7 +45,7 @@ public class Controller {
         List<MovieDto> list = movieRepository.findByGenreContaining(genre).stream().map(mapper::toMovieDto).toList();
         list.forEach(movie -> movie.setImage(imageProcessor.getMoviePicture(movie.getTitle())));
         writeMovieToJsonFile(list);
-        return null;
+        return list;
     }
 
     @GetMapping("/movies/{title}")
@@ -71,7 +68,7 @@ public class Controller {
         List<MovieDto> movies = actor.getMovies().stream().map(mapper::toMovieDto).toList();
         movies.forEach(movie -> movie.setImage(imageProcessor.getMoviePicture(movie.getTitle())));
         writeMovieToJsonFile(movies);
-        return null;
+        return ActorDto.builder().build();
     }
 
     private void writeMovieToJsonFile(List<MovieDto> movie) {
