@@ -20,8 +20,8 @@ public interface MovieRepository extends JpaRepository<Movie, String> {
     @Query("select m from Movie m where m.title = ?1 and m.genre = ?2")
     Optional<Movie> findByTitleAndGenre(String title, String genre);
 
-    @Query("select m from Movie m where m.actors = ?1 or m.year = ?2")
-    Optional<Movie> findMovieByActorsOrYear(List<Actor> actors, int year);
+//    @Query("select m from Movie m where m.actors = ?1 or m.year = ?2")
+//    Optional<Movie> findMovieByActorsOrYear(List<Actor> actors, int year);
 
     @Query("select m from Movie m where m.year = ?1")
     Optional<Movie> findByYear(int year);
